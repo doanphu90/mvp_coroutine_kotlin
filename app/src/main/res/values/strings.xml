@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SPWeartherApp</string>
+    <string name="input_text">input text</string>
+    <string name="recent_search">Recent Search</string>
+    <string name="home">Home</string>
+    <string name="not_recent_search">Recent Search not found</string>
+</resources>
